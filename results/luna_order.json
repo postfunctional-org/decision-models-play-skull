@@ -1,0 +1,38 @@
+{
+ "agent": "LUNA",
+ "repeat": 30,
+ "tally": {
+  "two options|pass first": {
+   "shape": "two options",
+   "pass_position": "first",
+   "n": 30,
+   "picks": {
+    "2": 30
+   }
+  },
+  "two options|pass last": {
+   "shape": "two options",
+   "pass_position": "last",
+   "n": 30,
+   "picks": {
+    "2": 30
+   }
+  },
+  "five options, as the game asks them|pass first": {
+   "shape": "five options, as the game asks them",
+   "pass_position": "first",
+   "n": 30,
+   "picks": {
+    "pass": 30
+   }
+  },
+  "five options, as the game asks them|pass last": {
+   "shape": "five options, as the game asks them",
+   "pass_position": "last",
+   "n": 30,
+   "picks": {
+    "2": 30
+   }
+  }
+ }
+}

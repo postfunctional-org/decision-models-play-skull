@@ -1,0 +1,3140 @@
+[
+ {
+  "title": "The first game, Haiku through Claude Code",
+  "games": [
+   {
+    "run": "games/first/transcript.json",
+    "name": "first",
+    "winner": "Jev",
+    "rounds": 7
+   }
+  ]
+ },
+ {
+  "title": "Four models",
+  "games": [
+   {
+    "run": "games/list/g0000.json",
+    "name": "g0000",
+    "winner": "Haiku",
+    "rounds": 12
+   },
+   {
+    "run": "games/list/g0001.json",
+    "name": "g0001",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0002.json",
+    "name": "g0002",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0003.json",
+    "name": "g0003",
+    "winner": "Haiku",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0004.json",
+    "name": "g0004",
+    "winner": "Jev",
+    "rounds": 9
+   },
+   {
+    "run": "games/list/g0005.json",
+    "name": "g0005",
+    "winner": "Haiku",
+    "rounds": 7
+   },
+   {
+    "run": "games/list/g0006.json",
+    "name": "g0006",
+    "winner": "Haiku",
+    "rounds": 3
+   },
+   {
+    "run": "games/list/g0007.json",
+    "name": "g0007",
+    "winner": "Haiku",
+    "rounds": 3
+   },
+   {
+    "run": "games/list/g0008.json",
+    "name": "g0008",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0009.json",
+    "name": "g0009",
+    "winner": "Haiku",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0010.json",
+    "name": "g0010",
+    "winner": "Jev",
+    "rounds": 11
+   },
+   {
+    "run": "games/list/g0011.json",
+    "name": "g0011",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0012.json",
+    "name": "g0012",
+    "winner": "LUNA",
+    "rounds": 2
+   },
+   {
+    "run": "games/list/g0013.json",
+    "name": "g0013",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/list/g0014.json",
+    "name": "g0014",
+    "winner": "Haiku",
+    "rounds": 3
+   },
+   {
+    "run": "games/list/g0015.json",
+    "name": "g0015",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0016.json",
+    "name": "g0016",
+    "winner": "Haiku",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0017.json",
+    "name": "g0017",
+    "winner": "OpenJev",
+    "rounds": 10
+   },
+   {
+    "run": "games/list/g0018.json",
+    "name": "g0018",
+    "winner": "LUNA",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0019.json",
+    "name": "g0019",
+    "winner": "Haiku",
+    "rounds": 8
+   },
+   {
+    "run": "games/list/g0020.json",
+    "name": "g0020",
+    "winner": "Haiku",
+    "rounds": 7
+   },
+   {
+    "run": "games/list/g0021.json",
+    "name": "g0021",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/list/g0022.json",
+    "name": "g0022",
+    "winner": "Haiku",
+    "rounds": 3
+   },
+   {
+    "run": "games/list/g0023.json",
+    "name": "g0023",
+    "winner": "OpenJev",
+    "rounds": 8
+   },
+   {
+    "run": "games/list/g0024.json",
+    "name": "g0024",
+    "winner": "Haiku",
+    "rounds": 12
+   },
+   {
+    "run": "games/list/g0025.json",
+    "name": "g0025",
+    "winner": "LUNA",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0026.json",
+    "name": "g0026",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0027.json",
+    "name": "g0027",
+    "winner": "Haiku",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0028.json",
+    "name": "g0028",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0029.json",
+    "name": "g0029",
+    "winner": "OpenJev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0030.json",
+    "name": "g0030",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0031.json",
+    "name": "g0031",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/list/g0032.json",
+    "name": "g0032",
+    "winner": "Haiku",
+    "rounds": 8
+   },
+   {
+    "run": "games/list/g0033.json",
+    "name": "g0033",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0034.json",
+    "name": "g0034",
+    "winner": "LUNA",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0035.json",
+    "name": "g0035",
+    "winner": "Haiku",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0036.json",
+    "name": "g0036",
+    "winner": "Haiku",
+    "rounds": 2
+   },
+   {
+    "run": "games/list/g0037.json",
+    "name": "g0037",
+    "winner": "Haiku",
+    "rounds": 2
+   },
+   {
+    "run": "games/list/g0038.json",
+    "name": "g0038",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0039.json",
+    "name": "g0039",
+    "winner": "LUNA",
+    "rounds": 10
+   },
+   {
+    "run": "games/list/g0040.json",
+    "name": "g0040",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/list/g0041.json",
+    "name": "g0041",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0042.json",
+    "name": "g0042",
+    "winner": "Haiku",
+    "rounds": 7
+   },
+   {
+    "run": "games/list/g0043.json",
+    "name": "g0043",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/list/g0044.json",
+    "name": "g0044",
+    "winner": "Jev",
+    "rounds": 10
+   },
+   {
+    "run": "games/list/g0045.json",
+    "name": "g0045",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0046.json",
+    "name": "g0046",
+    "winner": "OpenJev",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0047.json",
+    "name": "g0047",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0048.json",
+    "name": "g0048",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0049.json",
+    "name": "g0049",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0050.json",
+    "name": "g0050",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/list/g0051.json",
+    "name": "g0051",
+    "winner": "Jev",
+    "rounds": 9
+   },
+   {
+    "run": "games/list/g0052.json",
+    "name": "g0052",
+    "winner": "Haiku",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0053.json",
+    "name": "g0053",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0054.json",
+    "name": "g0054",
+    "winner": "Haiku",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0055.json",
+    "name": "g0055",
+    "winner": "OpenJev",
+    "rounds": 7
+   },
+   {
+    "run": "games/list/g0056.json",
+    "name": "g0056",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0057.json",
+    "name": "g0057",
+    "winner": "OpenJev",
+    "rounds": 12
+   },
+   {
+    "run": "games/list/g0058.json",
+    "name": "g0058",
+    "winner": "Haiku",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0059.json",
+    "name": "g0059",
+    "winner": "OpenJev",
+    "rounds": 3
+   },
+   {
+    "run": "games/list/g0060.json",
+    "name": "g0060",
+    "winner": "OpenJev",
+    "rounds": 8
+   },
+   {
+    "run": "games/list/g0061.json",
+    "name": "g0061",
+    "winner": "Haiku",
+    "rounds": 3
+   },
+   {
+    "run": "games/list/g0062.json",
+    "name": "g0062",
+    "winner": "LUNA",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0063.json",
+    "name": "g0063",
+    "winner": "Haiku",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0064.json",
+    "name": "g0064",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0065.json",
+    "name": "g0065",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0066.json",
+    "name": "g0066",
+    "winner": "LUNA",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0067.json",
+    "name": "g0067",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0068.json",
+    "name": "g0068",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0069.json",
+    "name": "g0069",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/list/g0070.json",
+    "name": "g0070",
+    "winner": "Haiku",
+    "rounds": 7
+   },
+   {
+    "run": "games/list/g0071.json",
+    "name": "g0071",
+    "winner": "Haiku",
+    "rounds": 3
+   },
+   {
+    "run": "games/list/g0072.json",
+    "name": "g0072",
+    "winner": "Haiku",
+    "rounds": 2
+   },
+   {
+    "run": "games/list/g0073.json",
+    "name": "g0073",
+    "winner": "Haiku",
+    "rounds": 2
+   },
+   {
+    "run": "games/list/g0074.json",
+    "name": "g0074",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/list/g0075.json",
+    "name": "g0075",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0076.json",
+    "name": "g0076",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/list/g0077.json",
+    "name": "g0077",
+    "winner": "Haiku",
+    "rounds": 9
+   },
+   {
+    "run": "games/list/g0078.json",
+    "name": "g0078",
+    "winner": "Haiku",
+    "rounds": 3
+   },
+   {
+    "run": "games/list/g0079.json",
+    "name": "g0079",
+    "winner": "Haiku",
+    "rounds": 2
+   },
+   {
+    "run": "games/list/g0080.json",
+    "name": "g0080",
+    "winner": "Jev",
+    "rounds": 11
+   },
+   {
+    "run": "games/list/g0081.json",
+    "name": "g0081",
+    "winner": "OpenJev",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0082.json",
+    "name": "g0082",
+    "winner": "Haiku",
+    "rounds": 7
+   },
+   {
+    "run": "games/list/g0083.json",
+    "name": "g0083",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0084.json",
+    "name": "g0084",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0085.json",
+    "name": "g0085",
+    "winner": "Haiku",
+    "rounds": 2
+   },
+   {
+    "run": "games/list/g0086.json",
+    "name": "g0086",
+    "winner": "LUNA",
+    "rounds": 3
+   },
+   {
+    "run": "games/list/g0087.json",
+    "name": "g0087",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/list/g0088.json",
+    "name": "g0088",
+    "winner": "Haiku",
+    "rounds": 2
+   },
+   {
+    "run": "games/list/g0089.json",
+    "name": "g0089",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0090.json",
+    "name": "g0090",
+    "winner": "Haiku",
+    "rounds": 10
+   },
+   {
+    "run": "games/list/g0091.json",
+    "name": "g0091",
+    "winner": "Haiku",
+    "rounds": 8
+   },
+   {
+    "run": "games/list/g0092.json",
+    "name": "g0092",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0093.json",
+    "name": "g0093",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/list/g0094.json",
+    "name": "g0094",
+    "winner": "Jev",
+    "rounds": 9
+   },
+   {
+    "run": "games/list/g0095.json",
+    "name": "g0095",
+    "winner": "Haiku",
+    "rounds": 2
+   },
+   {
+    "run": "games/list/g0096.json",
+    "name": "g0096",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/list/g0097.json",
+    "name": "g0097",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/list/g0098.json",
+    "name": "g0098",
+    "winner": "Haiku",
+    "rounds": 5
+   },
+   {
+    "run": "games/list/g0099.json",
+    "name": "g0099",
+    "winner": "Haiku",
+    "rounds": 3
+   }
+  ]
+ },
+ {
+  "title": "Four models, bidding asked as yes or no",
+  "games": [
+   {
+    "run": "games/binary/g0000.json",
+    "name": "g0000",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/binary/g0001.json",
+    "name": "g0001",
+    "winner": "Jev",
+    "rounds": 12
+   },
+   {
+    "run": "games/binary/g0002.json",
+    "name": "g0002",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0003.json",
+    "name": "g0003",
+    "winner": "Haiku",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0004.json",
+    "name": "g0004",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0005.json",
+    "name": "g0005",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/binary/g0006.json",
+    "name": "g0006",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0007.json",
+    "name": "g0007",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0008.json",
+    "name": "g0008",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0009.json",
+    "name": "g0009",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0010.json",
+    "name": "g0010",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0011.json",
+    "name": "g0011",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/binary/g0012.json",
+    "name": "g0012",
+    "winner": "OpenJev",
+    "rounds": 8
+   },
+   {
+    "run": "games/binary/g0013.json",
+    "name": "g0013",
+    "winner": "OpenJev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0014.json",
+    "name": "g0014",
+    "winner": "OpenJev",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0015.json",
+    "name": "g0015",
+    "winner": "Haiku",
+    "rounds": 3
+   },
+   {
+    "run": "games/binary/g0016.json",
+    "name": "g0016",
+    "winner": "Haiku",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0017.json",
+    "name": "g0017",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0018.json",
+    "name": "g0018",
+    "winner": "Haiku",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0019.json",
+    "name": "g0019",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0020.json",
+    "name": "g0020",
+    "winner": "Jev",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0021.json",
+    "name": "g0021",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/binary/g0022.json",
+    "name": "g0022",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0023.json",
+    "name": "g0023",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/binary/g0024.json",
+    "name": "g0024",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/binary/g0025.json",
+    "name": "g0025",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0027.json",
+    "name": "g0027",
+    "winner": "Haiku",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0028.json",
+    "name": "g0028",
+    "winner": "Jev",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0029.json",
+    "name": "g0029",
+    "winner": "Haiku",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0030.json",
+    "name": "g0030",
+    "winner": "OpenJev",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0031.json",
+    "name": "g0031",
+    "winner": "OpenJev",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0032.json",
+    "name": "g0032",
+    "winner": "OpenJev",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0033.json",
+    "name": "g0033",
+    "winner": "Haiku",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0034.json",
+    "name": "g0034",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0035.json",
+    "name": "g0035",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0036.json",
+    "name": "g0036",
+    "winner": "Haiku",
+    "rounds": 3
+   },
+   {
+    "run": "games/binary/g0037.json",
+    "name": "g0037",
+    "winner": "Haiku",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0038.json",
+    "name": "g0038",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0039.json",
+    "name": "g0039",
+    "winner": "Haiku",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0040.json",
+    "name": "g0040",
+    "winner": "Jev",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0041.json",
+    "name": "g0041",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0042.json",
+    "name": "g0042",
+    "winner": "OpenJev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0043.json",
+    "name": "g0043",
+    "winner": "OpenJev",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0044.json",
+    "name": "g0044",
+    "winner": "Haiku",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0045.json",
+    "name": "g0045",
+    "winner": "Jev",
+    "rounds": 10
+   },
+   {
+    "run": "games/binary/g0046.json",
+    "name": "g0046",
+    "winner": "Haiku",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0047.json",
+    "name": "g0047",
+    "winner": "Haiku",
+    "rounds": 4
+   },
+   {
+    "run": "games/binary/g0048.json",
+    "name": "g0048",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0049.json",
+    "name": "g0049",
+    "winner": "OpenJev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0050.json",
+    "name": "g0050",
+    "winner": "Haiku",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0051.json",
+    "name": "g0051",
+    "winner": "Haiku",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0052.json",
+    "name": "g0052",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/binary/g0053.json",
+    "name": "g0053",
+    "winner": "Haiku",
+    "rounds": 4
+   },
+   {
+    "run": "games/binary/g0054.json",
+    "name": "g0054",
+    "winner": "Jev",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0055.json",
+    "name": "g0055",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/binary/g0056.json",
+    "name": "g0056",
+    "winner": "Haiku",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0057.json",
+    "name": "g0057",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/binary/g0058.json",
+    "name": "g0058",
+    "winner": "Jev",
+    "rounds": 11
+   },
+   {
+    "run": "games/binary/g0059.json",
+    "name": "g0059",
+    "winner": "OpenJev",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0060.json",
+    "name": "g0060",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0061.json",
+    "name": "g0061",
+    "winner": "OpenJev",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0062.json",
+    "name": "g0062",
+    "winner": "OpenJev",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0063.json",
+    "name": "g0063",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0064.json",
+    "name": "g0064",
+    "winner": "OpenJev",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0065.json",
+    "name": "g0065",
+    "winner": "Haiku",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0066.json",
+    "name": "g0066",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0067.json",
+    "name": "g0067",
+    "winner": "Haiku",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0068.json",
+    "name": "g0068",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/binary/g0069.json",
+    "name": "g0069",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/binary/g0071.json",
+    "name": "g0071",
+    "winner": "OpenJev",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0072.json",
+    "name": "g0072",
+    "winner": "Haiku",
+    "rounds": 4
+   },
+   {
+    "run": "games/binary/g0073.json",
+    "name": "g0073",
+    "winner": "Haiku",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0074.json",
+    "name": "g0074",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0075.json",
+    "name": "g0075",
+    "winner": "Haiku",
+    "rounds": 3
+   },
+   {
+    "run": "games/binary/g0076.json",
+    "name": "g0076",
+    "winner": "Haiku",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0077.json",
+    "name": "g0077",
+    "winner": "Haiku",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0078.json",
+    "name": "g0078",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0079.json",
+    "name": "g0079",
+    "winner": "Haiku",
+    "rounds": 4
+   },
+   {
+    "run": "games/binary/g0080.json",
+    "name": "g0080",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/binary/g0081.json",
+    "name": "g0081",
+    "winner": "OpenJev",
+    "rounds": 4
+   },
+   {
+    "run": "games/binary/g0082.json",
+    "name": "g0082",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0083.json",
+    "name": "g0083",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0084.json",
+    "name": "g0084",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/binary/g0085.json",
+    "name": "g0085",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0086.json",
+    "name": "g0086",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/binary/g0087.json",
+    "name": "g0087",
+    "winner": "Haiku",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0088.json",
+    "name": "g0088",
+    "winner": "Haiku",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0089.json",
+    "name": "g0089",
+    "winner": "Haiku",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0090.json",
+    "name": "g0090",
+    "winner": "Haiku",
+    "rounds": 2
+   },
+   {
+    "run": "games/binary/g0091.json",
+    "name": "g0091",
+    "winner": "Haiku",
+    "rounds": 4
+   },
+   {
+    "run": "games/binary/g0092.json",
+    "name": "g0092",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/binary/g0093.json",
+    "name": "g0093",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0094.json",
+    "name": "g0094",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/binary/g0095.json",
+    "name": "g0095",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/binary/g0096.json",
+    "name": "g0096",
+    "winner": "OpenJev",
+    "rounds": 8
+   },
+   {
+    "run": "games/binary/g0097.json",
+    "name": "g0097",
+    "winner": "OpenJev",
+    "rounds": 9
+   },
+   {
+    "run": "games/binary/g0098.json",
+    "name": "g0098",
+    "winner": "Haiku",
+    "rounds": 5
+   },
+   {
+    "run": "games/binary/g0099.json",
+    "name": "g0099",
+    "winner": "OpenJev",
+    "rounds": 4
+   }
+  ]
+ },
+ {
+  "title": "Three models and house",
+  "games": [
+   {
+    "run": "games/vs_house/g0000.json",
+    "name": "g0000",
+    "winner": "LUNA",
+    "rounds": 2
+   },
+   {
+    "run": "games/vs_house/g0001.json",
+    "name": "g0001",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0002.json",
+    "name": "g0002",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0003.json",
+    "name": "g0003",
+    "winner": "house",
+    "rounds": 10
+   },
+   {
+    "run": "games/vs_house/g0004.json",
+    "name": "g0004",
+    "winner": "house",
+    "rounds": 9
+   },
+   {
+    "run": "games/vs_house/g0005.json",
+    "name": "g0005",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_house/g0006.json",
+    "name": "g0006",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_house/g0007.json",
+    "name": "g0007",
+    "winner": "house",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_house/g0008.json",
+    "name": "g0008",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_house/g0009.json",
+    "name": "g0009",
+    "winner": "house",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_house/g0010.json",
+    "name": "g0010",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0011.json",
+    "name": "g0011",
+    "winner": "OpenJev",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_house/g0012.json",
+    "name": "g0012",
+    "winner": "LUNA",
+    "rounds": 12
+   },
+   {
+    "run": "games/vs_house/g0013.json",
+    "name": "g0013",
+    "winner": "LUNA",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_house/g0014.json",
+    "name": "g0014",
+    "winner": "OpenJev",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_house/g0015.json",
+    "name": "g0015",
+    "winner": "house",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_house/g0016.json",
+    "name": "g0016",
+    "winner": "LUNA",
+    "rounds": 2
+   },
+   {
+    "run": "games/vs_house/g0017.json",
+    "name": "g0017",
+    "winner": "house",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_house/g0018.json",
+    "name": "g0018",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0019.json",
+    "name": "g0019",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0020.json",
+    "name": "g0020",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0021.json",
+    "name": "g0021",
+    "winner": "house",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_house/g0022.json",
+    "name": "g0022",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_house/g0023.json",
+    "name": "g0023",
+    "winner": "house",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_house/g0024.json",
+    "name": "g0024",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0025.json",
+    "name": "g0025",
+    "winner": "house",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_house/g0026.json",
+    "name": "g0026",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0027.json",
+    "name": "g0027",
+    "winner": "house",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_house/g0028.json",
+    "name": "g0028",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_house/g0029.json",
+    "name": "g0029",
+    "winner": "house",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_house/g0030.json",
+    "name": "g0030",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0031.json",
+    "name": "g0031",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_house/g0032.json",
+    "name": "g0032",
+    "winner": "house",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_house/g0033.json",
+    "name": "g0033",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_house/g0034.json",
+    "name": "g0034",
+    "winner": "house",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_house/g0035.json",
+    "name": "g0035",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0036.json",
+    "name": "g0036",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0037.json",
+    "name": "g0037",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_house/g0038.json",
+    "name": "g0038",
+    "winner": "house",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_house/g0039.json",
+    "name": "g0039",
+    "winner": "house",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_house/g0040.json",
+    "name": "g0040",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_house/g0041.json",
+    "name": "g0041",
+    "winner": "house",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_house/g0042.json",
+    "name": "g0042",
+    "winner": "Jev",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_house/g0043.json",
+    "name": "g0043",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0044.json",
+    "name": "g0044",
+    "winner": "house",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_house/g0045.json",
+    "name": "g0045",
+    "winner": "house",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_house/g0046.json",
+    "name": "g0046",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0047.json",
+    "name": "g0047",
+    "winner": "OpenJev",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_house/g0048.json",
+    "name": "g0048",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_house/g0049.json",
+    "name": "g0049",
+    "winner": "house",
+    "rounds": 9
+   },
+   {
+    "run": "games/vs_house/g0050.json",
+    "name": "g0050",
+    "winner": "OpenJev",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_house/g0051.json",
+    "name": "g0051",
+    "winner": "house",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_house/g0052.json",
+    "name": "g0052",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_house/g0053.json",
+    "name": "g0053",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_house/g0054.json",
+    "name": "g0054",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0055.json",
+    "name": "g0055",
+    "winner": "Jev",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_house/g0056.json",
+    "name": "g0056",
+    "winner": "house",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_house/g0057.json",
+    "name": "g0057",
+    "winner": "Jev",
+    "rounds": 9
+   },
+   {
+    "run": "games/vs_house/g0058.json",
+    "name": "g0058",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_house/g0059.json",
+    "name": "g0059",
+    "winner": "house",
+    "rounds": 8
+   }
+  ]
+ },
+ {
+  "title": "Three models and random",
+  "games": [
+   {
+    "run": "games/vs_random/g0000.json",
+    "name": "g0000",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0001.json",
+    "name": "g0001",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0002.json",
+    "name": "g0002",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_random/g0003.json",
+    "name": "g0003",
+    "winner": "OpenJev",
+    "rounds": 11
+   },
+   {
+    "run": "games/vs_random/g0004.json",
+    "name": "g0004",
+    "winner": "Jev",
+    "rounds": 9
+   },
+   {
+    "run": "games/vs_random/g0005.json",
+    "name": "g0005",
+    "winner": "Jev",
+    "rounds": 11
+   },
+   {
+    "run": "games/vs_random/g0006.json",
+    "name": "g0006",
+    "winner": "random",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0007.json",
+    "name": "g0007",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_random/g0008.json",
+    "name": "g0008",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_random/g0010.json",
+    "name": "g0010",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0011.json",
+    "name": "g0011",
+    "winner": "OpenJev",
+    "rounds": 9
+   },
+   {
+    "run": "games/vs_random/g0012.json",
+    "name": "g0012",
+    "winner": "Jev",
+    "rounds": 10
+   },
+   {
+    "run": "games/vs_random/g0013.json",
+    "name": "g0013",
+    "winner": "LUNA",
+    "rounds": 11
+   },
+   {
+    "run": "games/vs_random/g0014.json",
+    "name": "g0014",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0015.json",
+    "name": "g0015",
+    "winner": "Jev",
+    "rounds": 9
+   },
+   {
+    "run": "games/vs_random/g0016.json",
+    "name": "g0016",
+    "winner": "LUNA",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_random/g0017.json",
+    "name": "g0017",
+    "winner": "LUNA",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0018.json",
+    "name": "g0018",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0019.json",
+    "name": "g0019",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_random/g0020.json",
+    "name": "g0020",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0021.json",
+    "name": "g0021",
+    "winner": "Jev",
+    "rounds": 10
+   },
+   {
+    "run": "games/vs_random/g0022.json",
+    "name": "g0022",
+    "winner": "LUNA",
+    "rounds": 12
+   },
+   {
+    "run": "games/vs_random/g0023.json",
+    "name": "g0023",
+    "winner": "Jev",
+    "rounds": 9
+   },
+   {
+    "run": "games/vs_random/g0024.json",
+    "name": "g0024",
+    "winner": "Jev",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_random/g0025.json",
+    "name": "g0025",
+    "winner": "Jev",
+    "rounds": 11
+   },
+   {
+    "run": "games/vs_random/g0026.json",
+    "name": "g0026",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_random/g0027.json",
+    "name": "g0027",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_random/g0028.json",
+    "name": "g0028",
+    "winner": "Jev",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_random/g0029.json",
+    "name": "g0029",
+    "winner": "OpenJev",
+    "rounds": 12
+   },
+   {
+    "run": "games/vs_random/g0030.json",
+    "name": "g0030",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0031.json",
+    "name": "g0031",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_random/g0032.json",
+    "name": "g0032",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_random/g0033.json",
+    "name": "g0033",
+    "winner": "OpenJev",
+    "rounds": 12
+   },
+   {
+    "run": "games/vs_random/g0034.json",
+    "name": "g0034",
+    "winner": "Jev",
+    "rounds": 9
+   },
+   {
+    "run": "games/vs_random/g0035.json",
+    "name": "g0035",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0036.json",
+    "name": "g0036",
+    "winner": "OpenJev",
+    "rounds": 11
+   },
+   {
+    "run": "games/vs_random/g0037.json",
+    "name": "g0037",
+    "winner": "LUNA",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_random/g0038.json",
+    "name": "g0038",
+    "winner": "OpenJev",
+    "rounds": 11
+   },
+   {
+    "run": "games/vs_random/g0039.json",
+    "name": "g0039",
+    "winner": "LUNA",
+    "rounds": 10
+   },
+   {
+    "run": "games/vs_random/g0040.json",
+    "name": "g0040",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_random/g0041.json",
+    "name": "g0041",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/vs_random/g0042.json",
+    "name": "g0042",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_random/g0043.json",
+    "name": "g0043",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_random/g0044.json",
+    "name": "g0044",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_random/g0045.json",
+    "name": "g0045",
+    "winner": "random",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_random/g0046.json",
+    "name": "g0046",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0047.json",
+    "name": "g0047",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_random/g0048.json",
+    "name": "g0048",
+    "winner": "Jev",
+    "rounds": 8
+   },
+   {
+    "run": "games/vs_random/g0049.json",
+    "name": "g0049",
+    "winner": "random",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_random/g0050.json",
+    "name": "g0050",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_random/g0051.json",
+    "name": "g0051",
+    "winner": "LUNA",
+    "rounds": 3
+   },
+   {
+    "run": "games/vs_random/g0052.json",
+    "name": "g0052",
+    "winner": "OpenJev",
+    "rounds": 11
+   },
+   {
+    "run": "games/vs_random/g0053.json",
+    "name": "g0053",
+    "winner": "OpenJev",
+    "rounds": 15
+   },
+   {
+    "run": "games/vs_random/g0054.json",
+    "name": "g0054",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/vs_random/g0055.json",
+    "name": "g0055",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_random/g0056.json",
+    "name": "g0056",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0057.json",
+    "name": "g0057",
+    "winner": "Jev",
+    "rounds": 7
+   },
+   {
+    "run": "games/vs_random/g0058.json",
+    "name": "g0058",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/vs_random/g0059.json",
+    "name": "g0059",
+    "winner": "random",
+    "rounds": 2
+   }
+  ]
+ },
+ {
+  "title": "Scripted players only",
+  "games": [
+   {
+    "run": "games/bars/g0000.json",
+    "name": "g0000",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0001.json",
+    "name": "g0001",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0002.json",
+    "name": "g0002",
+    "winner": "house:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0003.json",
+    "name": "g0003",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0004.json",
+    "name": "g0004",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0005.json",
+    "name": "g0005",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0006.json",
+    "name": "g0006",
+    "winner": "house",
+    "rounds": 9
+   },
+   {
+    "run": "games/bars/g0007.json",
+    "name": "g0007",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0008.json",
+    "name": "g0008",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0009.json",
+    "name": "g0009",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0010.json",
+    "name": "g0010",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0011.json",
+    "name": "g0011",
+    "winner": "random",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0012.json",
+    "name": "g0012",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0013.json",
+    "name": "g0013",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0014.json",
+    "name": "g0014",
+    "winner": "random",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0015.json",
+    "name": "g0015",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0016.json",
+    "name": "g0016",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0017.json",
+    "name": "g0017",
+    "winner": "house",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0018.json",
+    "name": "g0018",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0019.json",
+    "name": "g0019",
+    "winner": "random:1",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0020.json",
+    "name": "g0020",
+    "winner": "random:1",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0021.json",
+    "name": "g0021",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0022.json",
+    "name": "g0022",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0023.json",
+    "name": "g0023",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0024.json",
+    "name": "g0024",
+    "winner": "random",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0025.json",
+    "name": "g0025",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0026.json",
+    "name": "g0026",
+    "winner": "random:1",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0027.json",
+    "name": "g0027",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0028.json",
+    "name": "g0028",
+    "winner": "random",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0029.json",
+    "name": "g0029",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0030.json",
+    "name": "g0030",
+    "winner": "house:1",
+    "rounds": 12
+   },
+   {
+    "run": "games/bars/g0031.json",
+    "name": "g0031",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0032.json",
+    "name": "g0032",
+    "winner": "random",
+    "rounds": 2
+   },
+   {
+    "run": "games/bars/g0033.json",
+    "name": "g0033",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0034.json",
+    "name": "g0034",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0035.json",
+    "name": "g0035",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0036.json",
+    "name": "g0036",
+    "winner": "house",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0037.json",
+    "name": "g0037",
+    "winner": "random",
+    "rounds": 11
+   },
+   {
+    "run": "games/bars/g0038.json",
+    "name": "g0038",
+    "winner": "house",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0039.json",
+    "name": "g0039",
+    "winner": "random",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0040.json",
+    "name": "g0040",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0041.json",
+    "name": "g0041",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0042.json",
+    "name": "g0042",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0043.json",
+    "name": "g0043",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0044.json",
+    "name": "g0044",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0045.json",
+    "name": "g0045",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0046.json",
+    "name": "g0046",
+    "winner": "random:1",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0047.json",
+    "name": "g0047",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0048.json",
+    "name": "g0048",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0049.json",
+    "name": "g0049",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0050.json",
+    "name": "g0050",
+    "winner": "house",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0051.json",
+    "name": "g0051",
+    "winner": "random",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0052.json",
+    "name": "g0052",
+    "winner": "random:1",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0053.json",
+    "name": "g0053",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0054.json",
+    "name": "g0054",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0055.json",
+    "name": "g0055",
+    "winner": "random",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0056.json",
+    "name": "g0056",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0057.json",
+    "name": "g0057",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0058.json",
+    "name": "g0058",
+    "winner": "house:1",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0059.json",
+    "name": "g0059",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0060.json",
+    "name": "g0060",
+    "winner": "random",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0061.json",
+    "name": "g0061",
+    "winner": "house:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0062.json",
+    "name": "g0062",
+    "winner": "house:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0063.json",
+    "name": "g0063",
+    "winner": "house",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0064.json",
+    "name": "g0064",
+    "winner": "house:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0065.json",
+    "name": "g0065",
+    "winner": "random:1",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0066.json",
+    "name": "g0066",
+    "winner": "random",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0067.json",
+    "name": "g0067",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0068.json",
+    "name": "g0068",
+    "winner": "random:1",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0069.json",
+    "name": "g0069",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0070.json",
+    "name": "g0070",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0071.json",
+    "name": "g0071",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0072.json",
+    "name": "g0072",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0073.json",
+    "name": "g0073",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0074.json",
+    "name": "g0074",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0075.json",
+    "name": "g0075",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0076.json",
+    "name": "g0076",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0077.json",
+    "name": "g0077",
+    "winner": "house:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0078.json",
+    "name": "g0078",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0079.json",
+    "name": "g0079",
+    "winner": "random:1",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0080.json",
+    "name": "g0080",
+    "winner": "house",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0081.json",
+    "name": "g0081",
+    "winner": "random",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0082.json",
+    "name": "g0082",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0083.json",
+    "name": "g0083",
+    "winner": "random:1",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0084.json",
+    "name": "g0084",
+    "winner": "random",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0085.json",
+    "name": "g0085",
+    "winner": "house:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0086.json",
+    "name": "g0086",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0087.json",
+    "name": "g0087",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0088.json",
+    "name": "g0088",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0089.json",
+    "name": "g0089",
+    "winner": "random",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0090.json",
+    "name": "g0090",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0091.json",
+    "name": "g0091",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0092.json",
+    "name": "g0092",
+    "winner": "random:1",
+    "rounds": 2
+   },
+   {
+    "run": "games/bars/g0093.json",
+    "name": "g0093",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0094.json",
+    "name": "g0094",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0095.json",
+    "name": "g0095",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0096.json",
+    "name": "g0096",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0097.json",
+    "name": "g0097",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0098.json",
+    "name": "g0098",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0099.json",
+    "name": "g0099",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0100.json",
+    "name": "g0100",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0101.json",
+    "name": "g0101",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0102.json",
+    "name": "g0102",
+    "winner": "house",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0103.json",
+    "name": "g0103",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0104.json",
+    "name": "g0104",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0105.json",
+    "name": "g0105",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0106.json",
+    "name": "g0106",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0107.json",
+    "name": "g0107",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0108.json",
+    "name": "g0108",
+    "winner": "house",
+    "rounds": 10
+   },
+   {
+    "run": "games/bars/g0109.json",
+    "name": "g0109",
+    "winner": "house",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0110.json",
+    "name": "g0110",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0111.json",
+    "name": "g0111",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0112.json",
+    "name": "g0112",
+    "winner": "house:1",
+    "rounds": 10
+   },
+   {
+    "run": "games/bars/g0113.json",
+    "name": "g0113",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0114.json",
+    "name": "g0114",
+    "winner": "house:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0115.json",
+    "name": "g0115",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0116.json",
+    "name": "g0116",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0117.json",
+    "name": "g0117",
+    "winner": "house:1",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0118.json",
+    "name": "g0118",
+    "winner": "house:1",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0119.json",
+    "name": "g0119",
+    "winner": "random",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0120.json",
+    "name": "g0120",
+    "winner": "random:1",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0121.json",
+    "name": "g0121",
+    "winner": "house:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0122.json",
+    "name": "g0122",
+    "winner": "random",
+    "rounds": 9
+   },
+   {
+    "run": "games/bars/g0123.json",
+    "name": "g0123",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0124.json",
+    "name": "g0124",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0125.json",
+    "name": "g0125",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0126.json",
+    "name": "g0126",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0127.json",
+    "name": "g0127",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0128.json",
+    "name": "g0128",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0129.json",
+    "name": "g0129",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0130.json",
+    "name": "g0130",
+    "winner": "random",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0131.json",
+    "name": "g0131",
+    "winner": "random:1",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0132.json",
+    "name": "g0132",
+    "winner": "random",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0133.json",
+    "name": "g0133",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0134.json",
+    "name": "g0134",
+    "winner": "random",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0135.json",
+    "name": "g0135",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0136.json",
+    "name": "g0136",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0137.json",
+    "name": "g0137",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0138.json",
+    "name": "g0138",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0139.json",
+    "name": "g0139",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0140.json",
+    "name": "g0140",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0141.json",
+    "name": "g0141",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0142.json",
+    "name": "g0142",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0143.json",
+    "name": "g0143",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0144.json",
+    "name": "g0144",
+    "winner": "house",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0145.json",
+    "name": "g0145",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0146.json",
+    "name": "g0146",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0147.json",
+    "name": "g0147",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0148.json",
+    "name": "g0148",
+    "winner": "house:1",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0149.json",
+    "name": "g0149",
+    "winner": "random",
+    "rounds": 9
+   },
+   {
+    "run": "games/bars/g0150.json",
+    "name": "g0150",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0151.json",
+    "name": "g0151",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0152.json",
+    "name": "g0152",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0153.json",
+    "name": "g0153",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0154.json",
+    "name": "g0154",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0155.json",
+    "name": "g0155",
+    "winner": "random:1",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0156.json",
+    "name": "g0156",
+    "winner": "random:1",
+    "rounds": 9
+   },
+   {
+    "run": "games/bars/g0157.json",
+    "name": "g0157",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0158.json",
+    "name": "g0158",
+    "winner": "house:1",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0159.json",
+    "name": "g0159",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0160.json",
+    "name": "g0160",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0161.json",
+    "name": "g0161",
+    "winner": "house",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0162.json",
+    "name": "g0162",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0163.json",
+    "name": "g0163",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0164.json",
+    "name": "g0164",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0165.json",
+    "name": "g0165",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0166.json",
+    "name": "g0166",
+    "winner": "house:1",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0167.json",
+    "name": "g0167",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0168.json",
+    "name": "g0168",
+    "winner": "random",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0169.json",
+    "name": "g0169",
+    "winner": "house:1",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0170.json",
+    "name": "g0170",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0171.json",
+    "name": "g0171",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0172.json",
+    "name": "g0172",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0173.json",
+    "name": "g0173",
+    "winner": "house",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0174.json",
+    "name": "g0174",
+    "winner": "house:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0175.json",
+    "name": "g0175",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0176.json",
+    "name": "g0176",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0177.json",
+    "name": "g0177",
+    "winner": "house",
+    "rounds": 8
+   },
+   {
+    "run": "games/bars/g0178.json",
+    "name": "g0178",
+    "winner": "random",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0179.json",
+    "name": "g0179",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0180.json",
+    "name": "g0180",
+    "winner": "random",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0181.json",
+    "name": "g0181",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0182.json",
+    "name": "g0182",
+    "winner": "random:1",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0183.json",
+    "name": "g0183",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0184.json",
+    "name": "g0184",
+    "winner": "random",
+    "rounds": 4
+   },
+   {
+    "run": "games/bars/g0185.json",
+    "name": "g0185",
+    "winner": "random",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0186.json",
+    "name": "g0186",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0187.json",
+    "name": "g0187",
+    "winner": "random:1",
+    "rounds": 2
+   },
+   {
+    "run": "games/bars/g0188.json",
+    "name": "g0188",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0189.json",
+    "name": "g0189",
+    "winner": "house",
+    "rounds": 9
+   },
+   {
+    "run": "games/bars/g0190.json",
+    "name": "g0190",
+    "winner": "random:1",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0191.json",
+    "name": "g0191",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0192.json",
+    "name": "g0192",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0193.json",
+    "name": "g0193",
+    "winner": "random:1",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0194.json",
+    "name": "g0194",
+    "winner": "random:1",
+    "rounds": 6
+   },
+   {
+    "run": "games/bars/g0195.json",
+    "name": "g0195",
+    "winner": "random:1",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0196.json",
+    "name": "g0196",
+    "winner": "random:1",
+    "rounds": 7
+   },
+   {
+    "run": "games/bars/g0197.json",
+    "name": "g0197",
+    "winner": "random",
+    "rounds": 5
+   },
+   {
+    "run": "games/bars/g0198.json",
+    "name": "g0198",
+    "winner": "random:1",
+    "rounds": 3
+   },
+   {
+    "run": "games/bars/g0199.json",
+    "name": "g0199",
+    "winner": "random",
+    "rounds": 4
+   }
+  ]
+ }
+]

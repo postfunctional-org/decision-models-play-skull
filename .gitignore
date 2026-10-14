@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv*
+.env
+# voice ids belong to the account that designed them (skull/voices.py)
+assets/voices.json
+# where scripts/batches.sh writes, so a rerun never touches the recorded games
+games/new/

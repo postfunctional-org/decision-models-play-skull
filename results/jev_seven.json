@@ -1,0 +1,51 @@
+{
+ "file": "games/list/g0065.json",
+ "obs": {
+  "state": "Round 1. First to 2 rounds won takes the game.\n\nYou are Jev. Rounds won: 0.\nIn your hand: 2 roses.\nOn your own mat, face down, bottom to top: skull, rose.\n\nThe others:\n  OpenJev: 3 disc(s) face down on their mat, 4 disc(s) still theirs, 0 round(s) won.\n  LUNA-6: 3 disc(s) face down on their mat, 4 disc(s) still theirs, 0 round(s) won.\n  HAIKU-4: 2 disc(s) face down on their mat, 4 disc(s) still theirs, 0 round(s) won.\n\nDiscs face down on the table in total: 10.\nThe bid stands at 6, made by HAIKU-4.\nPassed this round: OpenJev, LUNA-6",
+  "candidates": [
+   {
+    "id": "pass",
+    "desc": "Take no further part in the bidding this round. You cannot bid again until the next round."
+   },
+   {
+    "id": "7",
+    "desc": "Bid 7. If you end up running it you must turn over 7 disc(s) without hitting a skull. You turn over your own mat first, from the top down, so the first 2 would come off your own stack, and the remaining 5 from the top of mats you choose. 10 discs are face down in total."
+   },
+   {
+    "id": "8",
+    "desc": "Bid 8. If you end up running it you must turn over 8 disc(s) without hitting a skull. You turn over your own mat first, from the top down, so the first 2 would come off your own stack, and the remaining 6 from the top of mats you choose. 10 discs are face down in total."
+   },
+   {
+    "id": "9",
+    "desc": "Bid 9. If you end up running it you must turn over 9 disc(s) without hitting a skull. You turn over your own mat first, from the top down, so the first 2 would come off your own stack, and the remaining 7 from the top of mats you choose. 10 discs are face down in total."
+   },
+   {
+    "id": "10",
+    "desc": "Bid 10. If you end up running it you must turn over 10 disc(s) without hitting a skull. You turn over your own mat first, from the top down, so the first 2 would come off your own stack, and the remaining 8 from the top of mats you choose. 10 discs are face down in total."
+   }
+  ],
+  "instructions": "You are playing Skull. Pick the option that gives you the best chance of winning the game.",
+  "pid": "20065:25:reply",
+  "env": "skull:20065"
+ },
+ "options": [
+  "pass",
+  "7",
+  "8",
+  "9",
+  "10"
+ ],
+ "game": "7",
+ "now": "7",
+ "meta": {
+  "probs": {
+   "pass": 0.34,
+   "7": 0.49,
+   "8": 0.05,
+   "9": 0.04,
+   "10": 0.08
+  },
+  "confidence": 0.36,
+  "latency_ms": 142.9
+ }
+}
