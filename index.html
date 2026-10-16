@@ -3,7 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Skull — replay</title>
+<title>Decision Models Play Skull</title>
+<meta name="description" content="Four AI models play Skull, a game about lying. Play back any of the 518 recorded games, move by move.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Decision Models Play Skull">
+<meta property="og:description" content="Four AI models play Skull, a game about lying. Play back any of the 518 recorded games, move by move.">
+<meta property="og:url" content="https://postfunctional-org.github.io/decision-models-play-skull/">
+<meta property="og:image" content="https://postfunctional-org.github.io/decision-models-play-skull/docs/screenshot.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%230e1218'/%3E%3Cg transform='translate(2.4 2.6) scale(.8)'%3E%3Cpath fill='%23efe9dc' d='M12 1.2C6.2 1.2 2.2 5 2.2 9.9c0 2.7 1.2 4.9 3 6.2.5.4.8 1 .8 1.7v2.1c0 .8.6 1.4 1.4 1.4h1.9v-2.1c0-.5.4-.9.9-.9s.9.4.9.9v2.1h1.8v-2.1c0-.5.4-.9.9-.9s.9.4.9.9v2.1h1.9c.8 0 1.4-.6 1.4-1.4v-2.1c0-.7.3-1.3.8-1.7 1.8-1.3 3-3.5 3-6.2 0-4.9-4-8.7-9.8-8.7z'/%3E%3Cellipse cx='7.9' cy='10.1' rx='2.9' ry='3.3' fill='%230e1218'/%3E%3Cellipse cx='16.1' cy='10.1' rx='2.9' ry='3.3' fill='%230e1218'/%3E%3Cpath d='M12 12.6l-1.7 3.4h3.4z' fill='%230e1218'/%3E%3C/g%3E%3C/svg%3E">
 <style>
 /* ---------------------------------------------------------------- tokens */
 :root{
@@ -31,6 +39,8 @@ header .spacer{flex:1}
 header .stat{font-family:var(--mono);font-size:12px;color:var(--ink2);
   background:var(--panel);border:1px solid var(--line);border-radius:4px;padding:3px 8px}
 header .stat b{color:var(--ink);font-weight:600}
+header a.stat{text-decoration:none}
+header a.stat:hover{color:var(--ink);border-color:var(--neon)}
 header .pick{max-width:min(46vw,330px);align-self:center}
 
 /* ---------------------------------------------------------------- layout */
@@ -329,6 +339,7 @@ input[type=range]::-moz-range-thumb{width:11px;height:11px;border-radius:50%;bac
   <span class="stat">round <b id="hRound">–</b></span>
   <span class="stat">event <b id="hEvent">0</b>/<b id="hTotal">0</b></span>
   <span class="stat" id="hAudio">audio off</span>
+  <a class="stat" href="https://github.com/postfunctional-org/decision-models-play-skull" target="_blank" rel="noopener">source</a>
   <button class="btn" id="bResult" style="display:none">Result</button>
 </header>
 
@@ -391,9 +402,10 @@ input[type=range]::-moz-range-thumb{width:11px;height:11px;border-radius:50%;bac
 <div class="loader" id="loader"><div class="box">
   <h2>Could not read the transcript</h2>
   <p id="loadWhy"></p>
-  <p>Browsers block <code>file://</code> reads from a page. Either serve the folder &mdash;
+  <p id="hintFile">Browsers block <code>file://</code> reads from a page. Either serve the folder &mdash;
      <code id="hintServe">python3 -m http.server</code> then open
      <code id="hintOpen">localhost:8000/</code> &mdash; or pick the file by hand:</p>
+  <p id="hintPick" style="display:none">You can still pick a transcript by hand:</p>
   <div class="drop" id="drop">
     <input type="file" id="file" accept=".json,application/json">
     <div style="margin-top:8px">&hellip; or drop a <code>transcript.json</code> anywhere on this page</div>
@@ -1256,6 +1268,10 @@ function loadVoices(){
 }
 
 function fail(why, err){
+  /* the serve-it-first advice is only true of a page opened from disk */
+  const local = location.protocol === "file:";
+  $("#hintFile").style.display = local ? "" : "none";
+  $("#hintPick").style.display = local ? "none" : "";
   try{
     const root = new URL(".", location.href);
     $("#hintServe").textContent = "python3 -m http.server -d " +
