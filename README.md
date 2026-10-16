@@ -1,6 +1,6 @@
 # Decision Models Play Skull
 
-Four AI models sit at one table and play Skull, a game about lying. The model with the most impossible bids also won the most games. The repository contains the game engine, the table viewer below, all 518 recorded games, and every number in the video. The viewer also runs on GitHub Pages at [postfunctional-org.github.io/decision-models-play-skull](https://postfunctional-org.github.io/decision-models-play-skull/), where any recorded game can be played back in the browser.
+Four AI models sit at one table and play Skull, a game about lying. The model with the most impossible bids also won the most games. The repository contains the game engine, the table viewer below, all 518 recorded games, and every number in [the video](https://youtu.be/EOuG2YBS188). The viewer also runs on GitHub Pages at [postfunctional-org.github.io/decision-models-play-skull](https://postfunctional-org.github.io/decision-models-play-skull/), where any recorded game can be played back in the browser.
 
 ![Game g0065 in the viewer: Haiku and Jev push the bid up to nine, and Jev turns over its own skull on its second disc](docs/screenshot.png)
 
