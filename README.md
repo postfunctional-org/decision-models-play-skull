@@ -31,11 +31,11 @@ With all four models at the table there were 100 games, 9,186 decisions, and 1,9
 A bid is impossible when the player's own skull sits within the number it just bid. Because the bidder turns over its own mat first, from the top down, such a bid fails before anyone else's disc is touched. This order makes the measure checkable from the player's own discs alone, with no solver and no assumption about how anyone else plays. The video calls these impossible claims.
 
 - Jev placed its skull first every time it had the choice (281 times out of 281) and then bid past it 220 times. It had to deliver 114 of those bids and lost each one on its own skull. The other 106 were outbid by another player before Jev turned over a single disc.
-- Haiku and Luna Decisions have low rates because they almost never chose to put their skull down. Between them they chose it once in 1,586 chances: Haiku chose its skull 1 time in 634 and Luna Decisions 0 times in 952. Every bid either of them made with its own skull on the mat was impossible, 39 of 39 for Haiku and 20 of 20 for Luna Decisions.
+- Haiku and Luna Decisions have low rates because they almost never chose to put their skull down. Between them they chose it once in 1,586 chances (Haiku 1 of 634, Luna Decisions 0 of 952). A skull still reaches the mat without that choice when it is the last disc in hand. Every bid either of them made with its own skull on the mat was impossible, 39 of 39 for Haiku and 20 of 20 for Luna Decisions.
 - Luna Decisions was the most cautious player at the table. It passed on 75% of its chances to raise (492 of 656) and finished last.
 - OpenJev had the highest rate of impossible bids at 47.6% and won 9 games.
 
-The scripted players give the scale. The `random` player picks uniformly from its options, and the `house` player is a fixed set of rules that will not bid past its own skull if it can avoid it. The random player makes an impossible bid on 26.4% of its bids (460 of 1,741). The `house` player made none in 1,180 bids, but its skull was never down when it bid. That zero is therefore not much of a test. With a scripted player in the fourth seat (119 games) Jev won 59, the scripted players 37 between them, OpenJev 12, and Luna Decisions 11.
+Two scripted players give the scale. The `random` player picks uniformly from its options, and the `house` player is a fixed set of rules that will not bid past its own skull if it can avoid it. The random player made an impossible bid on 26.4% of its bids (460 of 1,741). The `house` player made none in 1,180 bids, but its skull was never down when it bid. That zero is therefore not much of a test. With a scripted player in the fourth seat (119 games) Jev won 59, the scripted players 37 between them, OpenJev 12, and Luna Decisions 11.
 
 ### Yes-or-no bidding
 
@@ -72,13 +72,13 @@ At a hand-played seat's turn the driver prints the question exactly as a model w
 
 `scripts/batches.sh` has the five batches behind the recorded games, with their seeds.
 
-## The questions
+## How the questions are asked
 
 A turn is five questions: stack another disc or open the bidding, place a rose or the skull, what number to open at, raise or pass, and whose mat to turn over next. Each is kept as small as the game allows.
 
-- Each seat sees only what it could see at a real table: its own hand, its own mat from bottom to top, and counts for everyone else.
+- Each seat is shown only what it could see at a real table: its own hand, its own mat from bottom to top, and counts for everyone else.
 - The option descriptions are flat. They state what happens and nothing about how it feels. On an earlier game the wording alone moved between 27% and 77% of these models' picks with the facts unchanged.
-- The order of the options reverses on a coin flip seeded by the position. Because the flip is seeded, a game still replays exactly.
+- The order of the options reverses on a coin flip seeded by the position, so a game still replays exactly.
 - A question with one legal answer is never asked. That was one question in five in the four-model games (2,292 of 11,478). Skipping these questions also keeps an endpoint failure from entering the log as a move.
 - A model that cannot be reached is never answered for. The game stops and resumes once the endpoint is back. This rule dropped three batch games, and two batches have 98 and 59 games as a result. No recorded game contains an invalid answer.
 
